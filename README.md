@@ -61,7 +61,7 @@ SKU
 1. Improve CVR through view to cart funnel optimisation:
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/018fa3d9-f568-454e-954d-eed2d9860331" />
 
-2.Improve customer retention rate by: 
+2. Improve customer retention rate by:
 
 (a) Implemeting a customer loyalty program
 
