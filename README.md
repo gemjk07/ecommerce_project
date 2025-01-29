@@ -18,4 +18,4 @@
 3. A decline in retention rate is another factor contributing to the drop in sales. However, new customers are increasing average order value on their subsequent purchases.
 
 **Next Steps**:
-
+1. Improve CVR through view to cart funnel optimisation:
